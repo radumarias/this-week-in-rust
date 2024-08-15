@@ -43,8 +43,8 @@ and just ask the editors to select the category.
 
 ### Research
 
-A file sync and shsre project that's on the making.
-[syncoxiders](https://github.com/radumarias/syncoxiders)  
+A file sync and share project that's on the making.
+[syncoxiders](https://github.com/radumarias/syncoxiders).  
 Cloud file and email Sync, file Sharing, Backup and Encryption solution written in Rust.
 
 A [survey](https://forms.gle/qgnWBJhzCpzPLSmv5) to help with the development. And the [results](https://docs.google.com/forms/d/1d4V8BZB7TGp08NhY6_L0kUgcGe0glRFOjp4rjrt7_bs/viewanalytics?chromeless=1).
@@ -54,7 +54,7 @@ A [survey](https://forms.gle/qgnWBJhzCpzPLSmv5) to help with the development. An
 ## Crate of the Week
 
 <!-- COTW goes here -->
-I would like to propose [rencfs](https://github.com/radumarias/rencfs)  
+I would like to propose [rencfs](https://github.com/radumarias/rencfs).  
 An encrypted file system written in Rust that is mounted with FUSE on Linux. It can be used to create encrypted directories.
 
 [Please submit your suggestions and votes for next week][submit_crate]!
